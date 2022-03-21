@@ -1,9 +1,3 @@
-body{
-	background: black;
-}
-h1{
-	color: red;
-}
 h2{
 	color: ;
 }
@@ -18,4 +12,14 @@ h2.Seinen{
 }
 h1.Shonen{
 	color: yellow;
+}
+header{
+	background: gold;
+	width: 100%;
+	height: 50px;
+}
+a{
+	font-size: 1.6em;
+	margin: 20px;
+	color: blue;
 }
